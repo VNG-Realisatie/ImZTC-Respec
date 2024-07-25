@@ -2,25 +2,25 @@ let respecConfig = {
 //  useLogo: true,
 //  useLabel: true,
 //  license: "eupl",
-  shortName: "Respec-template",
-  pubDomain: "hl",
+  shortName: "ImZTC",
+  pubDomain: "cim",
 
   // Zie de globale property 'localizationStrings/nl' voor de lijst met toegestane specificatie-types
-  specType: "HL",
+  specType: "IM",
   
   // Zie de globale property 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
   specStatus: "IO",
-  publishDate: "2024-05-16",
-  publishVersion: "0.2.0",
+  publishDate: "2023-01-10",
+  publishVersion: "2.2.0",
 
   // Zie de globale property 'localizationStrings/nl' voor de lijst met toegestane maturities
   //previousMaturity: "IO",
   //previousPublishDate: "2022-06-24",
   //previousPublishVersion: "0.0.4",
   
-  title: "Respec documentatie generatie",
-  subtitle: "Tevens een voorbeeld van een gegenereerd Respec document",
-  content: {"mermaid": "", "ch01": "informative", "ch02": ""},
+  title: "Informatiemodel ZTC (ImZTC)",
+//  subtitle: "Tevens een voorbeeld van een gegenereerd Respec document",
+//  content: {"mermaid": "", "ch01": "informative", "ch02": ""},
 //  authors:
 //    [
 //      {
@@ -32,12 +32,12 @@ let respecConfig = {
   editors:
     [
       {
-        name: "Robert Melskens",
+        name: "Arjan Kloosterboer",
         company: "VNG Realisatie",
         companyURL: "https://vng.nl/artikelen/vng-realisatie",
       }
     ],
-  github: "https://github.com/VNG-Realisatie/VNG-R-Respec-Template",
+  github: "https://github.com/VNG-Realisatie/ImZTC-Respec",
 
   //  maxTocLevel: 2,
 
@@ -45,7 +45,7 @@ let respecConfig = {
   alternateFormats: [
       {
           label: "pdf",
-          uri: "Respec-bij-VNG-R.pdf",
+          uri: "ImZTC.pdf",
       },
     ],
   localBiblio: {
