@@ -7,7 +7,7 @@ door middel van de GEMeentelijke Model Architectuur (GEMMA). De GEMMAonderdelen 
 bedrijfsvoering en informatiehuishouding. Voor zaak- en procesgericht werken biedt
 KING o.a. de GEMMA Zaaktypecatalogus.
 De visie van KING op de Zaaktypecatalogus, de uitgangspunten, het gebruik, de opzet,
-de inhoud en het beheer, beschrijft zij in het document ‘GEMMA Zaaktypecatalogus 2’.
+de inhoud en het beheer, beschrijft zij in het document [GEMMA Zaaktypecatalogus 2](https://vng-realisatie.github.io/Zaaktypecatalogus/).
 Een zaaktypecatalogus bevat de zaaktypen die onderscheiden worden binnen het domein
 waarop die catalogus gericht is. De ‘ZTC2’ geeft duidelijkheid over de kenmerken
 waarmee een zaaktype beschreven wordt. Welke kenmerken dit zijn, wat ze betekenen

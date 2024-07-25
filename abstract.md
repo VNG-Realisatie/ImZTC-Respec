@@ -1,1 +1,1 @@
-Nog te vullen.
+Informatiemodel voor het definiëren van een Zaaktypecatalogus (ImZTC), versie 2.2.
