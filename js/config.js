@@ -45,8 +45,7 @@ let respecConfig = {
   alternateFormats: [
       {
           label: "pdf",
-          uri: ["pubDomain", "-", "shortName", "-", "publishVersion", ".pdf"],
-  //        uri: "ImZTC.pdf",
+          uri: "cim-ImZTC-2.2.0.pdf",
       },
     ],
   localBiblio: {
